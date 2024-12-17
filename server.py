@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__)
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 YOUR_SITE_URL = "your_site_url.com"
 YOUR_APP_NAME = "selim"
 
