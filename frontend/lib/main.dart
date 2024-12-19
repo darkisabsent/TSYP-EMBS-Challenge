@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:device_preview/device_preview.dart';
 import 'screens/home_screen.dart';
 import 'screens/mood_tracker_screen.dart';
-import 'screens/therapy_screen.dart';
 import 'screens/chatbot_screen.dart';
 import 'screens/profile_screen.dart';
 import 'screens/emergency_screen.dart';
@@ -53,7 +52,6 @@ class _MainScreenState extends State<MainScreen> {
   static const List<Widget> _widgetOptions = <Widget>[
     HomeScreen(),
     MoodTrackerScreen(),
-    TherapyScreen(),
     ChatbotScreen(),
     ProfileScreen(),
     QuizScreen(),
