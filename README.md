@@ -1,3 +1,11 @@
+## Note
+
+The code available on GitHub represents Version 0 of our project, serving as the foundational implementation of our app. This version includes a user-friendly interface designed to demonstrate the app’s core functionality, providing a practical example of how users can interact with key features. However, it remains a work in progress, focusing primarily on establishing the technical groundwork rather than finalizing the design.
+
+In contrast, the prototype on Figma reflects the latest version of our vision, showcasing advanced design elements, a refined user experience, and an intuitive layout that highlights the app’s future potential. The Figma prototype incorporates feedback and features planned for upcoming iterations, offering a glimpse into what the app will look like as it evolves.
+
+We are still in the process of aligning the GitHub implementation with the Figma design. This involves iteratively enhancing the codebase to integrate the sleek interface, advanced functionalities, and improved user experience showcased in the prototype. As we progress, our focus remains on continuously refining features, aesthetics, and performance to ensure the app meets the highest standards of usability and innovation.
+
 ## project overview
 Aura App is an innovative AI-driven mental health platform offering personalized and holistic support. With a seamless user experience and robust AI integrations, Aura fosters emotional well-being through advanced features like mood tracking, journaling, therapy sessions, and customizable chatbot interactions.
 
@@ -33,3 +41,4 @@ Therapy Sessions: Secure scheduling and video/audio calls with licensed professi
 Journaling and Reflection: Dedicated space for daily notes and self-expression.
 Daily Inspirations: Teal-themed motivational quotes to foster positivity.
 Notifications: Timely reminders for hydration, breathing exercises, and self-care.
+
