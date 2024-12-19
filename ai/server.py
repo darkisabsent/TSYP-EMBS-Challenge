@@ -4,9 +4,9 @@ import json
 
 app = Flask(__name__)
 
-OPENROUTER_API_KEY = ""
+OPENROUTER_API_KEY = "" #put api key here
 YOUR_SITE_URL = "your_site_url.com"
-YOUR_APP_NAME = "selim"
+YOUR_APP_NAME = "embs"
 
 headers = {
     "Authorization": f"Bearer {OPENROUTER_API_KEY}",
