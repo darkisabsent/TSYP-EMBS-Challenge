@@ -6,7 +6,7 @@ In contrast, the prototype on Figma reflects the latest version of our vision, s
 
 We are still in the process of aligning the GitHub implementation with the Figma design. This involves iteratively enhancing the codebase to integrate the sleek interface, advanced functionalities, and improved user experience showcased in the prototype. As we progress, our focus remains on continuously refining features, aesthetics, and performance to ensure the app meets the highest standards of usability and innovation.
 
-# project overview
+# Project overview
 Aura App is an innovative AI-driven mental health platform offering personalized and holistic support. With a seamless user experience and robust AI integrations, Aura fosters emotional well-being through advanced features like mood tracking, journaling, therapy sessions, and customizable chatbot interactions.
 
 ## Project Description
