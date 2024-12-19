@@ -8,8 +8,8 @@ Flutter installed on your system (Install Flutter)
 
 -Clone the repository:
 
-git clone https://github.com/your-repo/buddy-chat-app.git
-cd buddy-chat-app/frontend
+git clone https://github.com/darkisabsent/TSYP-EMBS-Challenge
+cd embs/embs
 
 
 -Install dependencies:
